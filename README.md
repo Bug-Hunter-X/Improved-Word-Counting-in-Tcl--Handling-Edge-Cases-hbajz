@@ -1,0 +1,1 @@
+This repository contains a Tcl procedure designed to count words in a given string.  The initial version has some issues handling edge cases such as empty strings and strings with excessive whitespace.  The improved version addresses these issues.
